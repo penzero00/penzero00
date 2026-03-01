@@ -1,4 +1,4 @@
-<h1 align="center">Vincent Velasco Vila <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Vincent Velasco Vila </h1>
 
 <div align="center">
 <b>Software Developer | Traditional & Digital Artist</b>
@@ -43,7 +43,7 @@ Validated proficiency in core software development concepts, object-oriented pro
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/C%2523-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 </div>
@@ -75,9 +75,5 @@ Validated proficiency in core software development concepts, object-oriented pro
 <div align="center">
 <a href="https://github.com/penzero00">
 <img src="https://github-readme-stats.vercel.app/api?username=penzero00&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7" alt="Vincent's GitHub Stats" />
-</a>
-
-<a href="https://github.com/penzero00">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=penzero00&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7" alt="Vincent's GitHub Streak" />
 </a>
 </div>
