@@ -74,6 +74,12 @@ Validated proficiency in core software development concepts, object-oriented pro
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/penzero00">
-<img src="https://github-readme-stats.vercel.app/api?username=penzero00&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7" alt="Vincent's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=penzero00&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&cache_seconds=1800" alt="Vincent's GitHub Stats" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/penzero00">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=penzero00&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7" alt="Vincent's GitHub Streak" />
 </a>
 </div>
